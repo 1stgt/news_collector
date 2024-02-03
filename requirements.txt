@@ -1,0 +1,5 @@
+feedparser 
+sqlalchemy 
+celery
+redis
+nltk

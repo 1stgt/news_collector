@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\Users\\1st19\\Documents\\project\\news_collector\\venv\\Scripts\\python.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_flask"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.venvPath": "C:\\Users\\1st19\\Documents\\project\\news_collector\\venv",
+    "python.venvFolders": [
+        "venv"
+    ],
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "*.pyc": true
+    },
+    "files.autoSave": "onFocusChange"
+}
